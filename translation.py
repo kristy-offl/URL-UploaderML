@@ -8,20 +8,26 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Support Group : @ML_SupportGroup
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
     
-1. Send url (Link | New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+⛑️ How To Use Me & More 😉
+Uploading Files To Telegram
+⇰ Send Me Any Direct Link & Use "|" To Separate Link From New Name For Example https://example.com | newname.extension.
 
-Support Group : @TroJanzSupport
+Set Thumbnail
+⇰ Send A Photo To Make It As Permanent Thumbnail.
+
+Deleting Thumbnail
+⇰ Send /deletethumb To Delete Thumbnail.
+
+Generate Thumbnail
+⇰ Send Two Photos In A Media Album.
+⇰ Reply To That Photos With /generatecustomthumbnail
+
+Support Group : @ML_SupportGroup
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,7 +39,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/kristy-offl/URL-UploaderML'>Click here, Fork and deploy!!</a>"
     
     DOWNLOAD_START = "Trying to download your file..."
     
